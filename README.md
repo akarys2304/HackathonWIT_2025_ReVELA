@@ -5,6 +5,8 @@ Seja bem-vindo(a) ao reVELA, um projeto inovador que vai além da simples detec�
 Capacitar pessoas para que possam identificar desinformação com autonomia, refletir criticamente sobre o que consomem online e se divertir aprendendo — tudo isso sem sair do fluxo natural de uso do seu smartphone.
 
 Acesse nosso projeto pelo link: https://www.figma.com/design/6XiaDmEprnvuCJoPMWAqI3/reVELA?node-id=0-1&p=f&t=okYIVZZJmom1rSs1-0 
+Acesse a apresentação: https://www.canva.com/design/DAGoXcIPYxA/sjDL01vMbRzyTK4SSNwmqQ/edit?utm_content=DAGoXcIPYxA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Nossa planilha de organização: https://docs.google.com/spreadsheets/d/15Suj0x_l_xsCEAPs4HkysXb3sb1C4MOJLfPgUHyINpA/edit?gid=0#gid=0
 
 ## Definição da Ideia
 - O reVELA é um aplicativo mobile desenvolvido com o objetivo com de combater a desinformação, promovendo o letramento crítico e midiático dos usuários. A proposta é fornece uma plataforma interativa que combina notícias verificadas, educação e entretenimento, utilizando elementos de gamificação e inteligência artificial.
